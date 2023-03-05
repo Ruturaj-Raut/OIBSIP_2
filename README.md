@@ -1,3 +1,3 @@
 # OIBSIP_2
 
-oasis internship task 2
+oasis infobyte internship task 2
